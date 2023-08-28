@@ -1,11 +1,11 @@
 {
-  "name": "AC-Message-Generator",
+  "name": "Janclai-Message-Generator",
   "version": "1.0.0",
-  "description": "Generate a discord message that looks like AC's saying",
+  "description": "Generate a discord message that looks like Janclai's saying",
   "main": "index.js",
-  "author": "kyometori",
+  "author": "kyometori/dragonyc1002",
   "license": "",
-  "homepage": "https://kyometori.github.io/acgen",
+  "homepage": "https://dragonyc1002.github.io/janclaigen",
   "dependencies": {
     "@skyra/discord-components-core": "^2.11.2",
     "@skyra/discord-components-react": "^2.11.2",
