@@ -25,7 +25,7 @@ export default function App() {
   const [name, setName] = useState('Janclai磚塊');
   const [avatar, setAvatar] = useState('janclai');
   const [color, setColor] = useState('#e4b400');
-  const [time, setTime] = useState(`${now.getFullYear()}/${now.getMonth()+1}/${now.getDate()} ${now.getHours()}:${now.getMinutes()}`);
+  const [time, setTime] = useState(`Today at ${now.getHours()}:${now.getMinutes()}`);
   const [light, setLight] = useState(false);
   const [attachment, setAttachment] = useState([]);
 
